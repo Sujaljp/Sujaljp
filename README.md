@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring and passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujaljp&label=Profile%20views&color=0e75b6&style=flat" alt="sujaljp" /> </p>
+<img align="right" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="300"/>
 
 - 🔭 I’m currently working on **StudyBud**
 
