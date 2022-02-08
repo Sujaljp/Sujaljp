@@ -28,3 +28,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sujaljp&show_icons=true&locale=en" alt="sujaljp" />
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujaljp&" alt="sujaljp" />
+<br>
+<img align="center" src="https://leetcode.card.workers.dev/sujaljp?theme=dark&font=source_code_pro&extension=null" alt="sujaljp" />
+
