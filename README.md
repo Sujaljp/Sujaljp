@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Innovest**
 
-- 🌱 I’m currently learning **Next.js 13 **
+- 🌱 I’m currently learning **Solidity, Next.js 13 and Typescript**
 
 - 👯 I’m looking to collaborate in **Open source**
 
